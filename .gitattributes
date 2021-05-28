@@ -1,5 +1,0 @@
-*.ipynb linguist-language=Jupyter Notebook
-*.R linguist-language=R
-*.Rmd linguist-language=RMarkDown
-*.do linguist-language=Stata
-*.sas linguist-language=SAS
