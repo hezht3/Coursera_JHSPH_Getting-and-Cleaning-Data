@@ -1,0 +1,25 @@
+# Getting and Cleaning Data - Week 1
+The goal of this course: **Raw data -> Processing script -> tidy data** -> data analysis -> data communication
+
+## Raw and Processed Data
+
+### Definition of data
++ Data are values of **qualitative** or **quantitative** variables, belonging to a set of items.
++ **Variables**: A measurement or characteristic of an item.
+
+### Raw versus processed data
+#### Raw data
++ The original source of the data
++ Often hard to use for data analyses
++ Data analysis *includes* processing
++ Raw data may only need to be processed once
+#### Processed data
++ Data that is ready for analysis
++ Processing can include merging, subsetting, transforming, etc.
++ There may be standards for processing
++ All steps should be recorded
+
+
+```R
+
+```
